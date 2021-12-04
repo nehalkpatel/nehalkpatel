@@ -1,11 +1,15 @@
-### Hi there 👋
+## Make Good Things; Make Them Well 👋
+- 🔭 I’m currently working on medical devices software at [Verily Life Sciences](https://www.verily.com)
+- 💬 Ask me about embedded software development. Some things I've worked on over my career:
+  - HPE [Itanium](https://en.wikipedia.org/wiki/Itanium) server firmware. CPU, Chipset, and I/O initialization, error handling, and OS interfaces.
+  - HPE ProCurve and Aruba network operating systems, specifically chipset programming for L3 routing.
+  - Medical device firmware for a Class III implantable neuromodulation system - A neurostimulator implant and its wireless charger.
 
 <!--
 **nehalkpatel/nehalkpatel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
